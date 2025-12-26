@@ -1,0 +1,52 @@
+[
+  {
+    "job-name": "Программист Python",
+    "salary": 150000,
+    "location": "Москва"
+  },
+  {
+    "job-name": "Программист Java",
+    "salary": 140000,
+    "location": "Санкт-Петербург"
+  },
+  {
+    "job-name": "Программист C++",
+    "salary": 160000,
+    "location": "Москва"
+  },
+  {
+    "job-name": "Аналитик данных",
+    "salary": 120000,
+    "location": "Казань"
+  },
+  {
+    "job-name": "Программист JavaScript",
+    "salary": 130000,
+    "location": "Новосибирск"
+  },
+  {
+    "job-name": "программист Python",
+    "salary": 155000,
+    "location": "Москва"
+  },
+  {
+    "job-name": "DevOps инженер",
+    "salary": 170000,
+    "location": "Москва"
+  },
+  {
+    "job-name": "Программист C#",
+    "salary": 145000,
+    "location": "Екатеринбург"
+  },
+  {
+    "job-name": "Тестировщик",
+    "salary": 90000,
+    "location": "Москва"
+  },
+  {
+    "job-name": "Программист PHP",
+    "salary": 110000,
+    "location": "Ростов-на-Дону"
+  }
+]

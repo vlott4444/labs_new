@@ -1,0 +1,15 @@
+/a/labs_new/lab2/bin/Debug/net8.0/lab2
+/a/labs_new/lab2/bin/Debug/net8.0/lab2.deps.json
+/a/labs_new/lab2/bin/Debug/net8.0/lab2.runtimeconfig.json
+/a/labs_new/lab2/bin/Debug/net8.0/lab2.dll
+/a/labs_new/lab2/bin/Debug/net8.0/lab2.pdb
+/a/labs_new/lab2/obj/Debug/net8.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/a/labs_new/lab2/obj/Debug/net8.0/lab2.AssemblyInfoInputs.cache
+/a/labs_new/lab2/obj/Debug/net8.0/lab2.AssemblyInfo.cs
+/a/labs_new/lab2/obj/Debug/net8.0/lab2.csproj.CoreCompileInputs.cache
+/a/labs_new/lab2/obj/Debug/net8.0/lab2.sourcelink.json
+/a/labs_new/lab2/obj/Debug/net8.0/lab2.dll
+/a/labs_new/lab2/obj/Debug/net8.0/refint/lab2.dll
+/a/labs_new/lab2/obj/Debug/net8.0/lab2.pdb
+/a/labs_new/lab2/obj/Debug/net8.0/lab2.genruntimeconfig.cache
+/a/labs_new/lab2/obj/Debug/net8.0/ref/lab2.dll
